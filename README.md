@@ -23,5 +23,6 @@ The project is designed to practice building a functional system for student reg
 
 
 ## Author
-- [Tasnim Elgarbi](https://github.com/tasnimelgarbi)  
 - [Mohammed Gamal](https://github.com/mohammed-gamal-abdelmeged)
+- [Tasnim Elgarbi](https://github.com/tasnimelgarbi)  
+
